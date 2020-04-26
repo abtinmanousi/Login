@@ -1,0 +1,56 @@
+body {
+    margin: auto;
+    text-align: center;
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div-main {
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid 1px purple;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.div {
+    background-color: purple;
+    color: white;
+    padding: 30px 60px;
+}
+
+.div-three {
+    padding: 20px 10px;
+}
+
+.img {
+    width: 50px;
+}
+
+#btn {
+    color: white;
+    background-color: green;
+    width: 80px;
+}
+
+.hr {
+    width: 300px;
+}
+
+#p1 {
+    font-family: 'Montserrat';
+}
+
+.p2 {
+    font-family: Georgia, ;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+}
+
+.img-main {
+    width: 400px;
+}
